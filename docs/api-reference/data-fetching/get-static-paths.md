@@ -212,3 +212,15 @@ export const getStaticPaths: GetStaticPaths = async () => {
   // ...
 }
 ```
+
+## Related
+
+For more information on what to do next, we recommend the following sections:
+
+<div class="card">
+  <a href="docs/advanced-features/i18n-routing#dynamic-routes-and-getstaticprops-pages">
+    <b>Using getStaticPaths with i18n</b>
+    <small>Read more about how to set up locales for getStaticPaths</small>
+  </a>
+</div>
+
